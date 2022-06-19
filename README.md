@@ -1,1 +1,3 @@
-# ds_help
+# help
+
+надор jupyther-notebook с подсказками 
